@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Line from A
-=======
 Line from B
->>>>>>> feature/b
