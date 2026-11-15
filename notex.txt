@@ -1,0 +1,5 @@
+My First Git File
+Hello, my name is Sonali.
+I am learning Git and GitHub.
+This is my first commit.
+I am practicing version control.
